@@ -1,0 +1,1 @@
+{"version":1,"workflows":[{"id":"info_app","name":"Información de la app","description":"Consultar el nombre y la descripción públicos, sin notas privadas.","endpoint":"/api/info","method":"GET","input":{}}]}
